@@ -1,11 +1,37 @@
-# Course-Manager-By-Project-Adnan-Demo-
+# Course Manager Demo (CMPro V-D)
 
-•This is the Demo version (V-D) of CMPro By Project Adnan.
-•CMPro By Project Adnan is widely used in all asia for its block chain payment and first hand management.
-•Check TrustPilot rating if you have trust issue 😎.
-•You can head to our website and purchase it for lifetime or just subscription, pricing is listed below 👇 
-# Pricing#
-✓ 07 months (06+1) : 33$
-✓ 13 months (12+1) : 60$ 
-✓ 27 months (24+3) : 95$
-✓ Lifetime (with regular updates): 399$
+**Course Manager V-D** is the demo version of **CMPro by Project Adnan**, developed by **adnanXmodzZz**. CMPro is a trusted solution across Asia for blockchain-based payments and streamlined course management.
+
+---
+
+## 🌐 About CMPro
+
+- Trusted across Asia for **blockchain-integrated payments**
+- Real-time **first-hand course management**
+- Highly rated on **TrustPilot**
+
+---
+
+## 💳 Pricing
+
+| Plan Duration        | Price   | Bonus Months |
+|----------------------|---------|--------------|
+| 07 months            | $33     | +1 month     |
+| 13 months            | $60     | +1 month     |
+| 27 months            | $95     | +3 months    |
+| Lifetime (with updates) | $399 | —            |
+
+Subscriptions available via our [official website](#).
+
+---
+
+## 🔧 Installation
+
+1. Keep all files in a single directory  
+2. Open Command Prompt  
+3. Run: `st demo`  
+4. Enter password: `Demo001`
+
+---
+
+© Project Adnan
