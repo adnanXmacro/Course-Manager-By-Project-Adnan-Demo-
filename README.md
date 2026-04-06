@@ -8,7 +8,7 @@ currenr rating:4.8
 
 ## 🌐 About CMPro
 
-- Trusted across Asia for **blockchain-integrated payments**
+- Trusted across Asia for **integrating local payment methods**
 - Real-time **first-hand course management**
 - Highly rated on **TrustPilot**
 
