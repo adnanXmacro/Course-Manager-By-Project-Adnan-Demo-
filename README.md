@@ -34,4 +34,9 @@ Subscriptions available via our [official website](#).
 
 ---
 
+***Warning** 
+1. Do not ask for update for this free project.
+2. Do not star this repo.
+3. Do not contribute to the repo.
+
 © Project Adnan
