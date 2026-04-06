@@ -1,6 +1,8 @@
 # Course Manager Demo (CMPro V-D)
 
 **Course Manager V-D** is the demo version of **CMPro by Project Adnan**, developed by **adnanXmodzZz**. CMPro is a trusted solution across Asia for blockchain-based payments and streamlined course management.
+proof:(https://www.trustpilot.com/review/8bitmods.com)
+currenr rating:4.8
 
 ---
 
